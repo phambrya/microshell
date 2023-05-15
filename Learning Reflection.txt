@@ -1,0 +1,53 @@
+CSCI-347 Learning Reflection
+
+Name: Bryan Pham
+
+================================================================
+1. What are some of the most important lessons you learned while working on this assignment? Why do you think so?
+
+Some important lessons that I learn is that allocte buffer size and being able to free them matter a lot. Using debugging (valgrind) helps a lot in showing me what to look for when dealing with memory leaks, heaps, and error messages. Writing clean and readable code helps the programmer after me understand what I was trying to do with my code. Some other important lesson are system calls, fork and parsing.
+
+==========================================================================
+2. What do you want to learn more about, and why?
+
+I want to learn more about forking because I have a ok understanding on how it works but I would like to have a better understand of it.
+I want to learn more about different approaches that you can take with this project and how to write better clean and readable code with comments. Because it will allow me to write clean code and help the programmer after me understand what I was trying to do with my code. It will also allow me to look at this problem from a different point of view and see how else this project could have been coded.
+
+==========================================================================
+3. What were some of your most challenging/powerful moments and what made them so?
+
+Realizing what I got the code right.
+Being able to fix memory leaks and seeing the memory leak summary go away.
+Challenging momenent is fixing all the leaks.
+
+===============================================================================
+4. What did you learn were your greatest strengths? Your biggest areas for improvement?`
+
+My greatest strength is to see the project through and use manual pages in order to get the necessary information to finish my code. The biggest area I need to improve on is debugging my code and write better clean and readable code.
+
+===============================================================================
+5. Reread the learning objectives (LOs) of the assignment. State them below and rate your confidence about them on a scale from 1 to 5, where 1 is Not Confident at all, and 5 is Very Confident. 
+Example: LO1: Demonstrate how to write clean and readable code in C. (Confidence level: 4)
+
+
+1. Demonstrate how to implement the fork-exec-wait pattern. (Confidence level: 3)
+
+2. Demonstrate how to dynamically allocate memory and manage it. (Confidence level: 4)
+
+3. Create system utilities using system calls. (Confidence level: 4)
+
+4. Construct a complex C program with high quality (good style, robust, efficient). (Confidence level: 4)
+
+5. Inspect code to find defects and suggest solutions. (Confidence level: 4)
+
+6. Evaluate memory management using Valgrind. (Confidence level: 4)
+
+
+
+
+
+
+
+
+
+
